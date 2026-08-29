@@ -1,0 +1,7 @@
+Repuestos & Cía,repuestos@cia.com
+TechParts,ventas@techparts.com
+HardWare Pro,contacto@hardwarepro.com
+Distribuidora XYZ,ventas@xyz.com
+Importadora ABC,soporte@abc.com
+Mayorista 123,info@mayorista123.com
+Redragon,soporte@redragon.com

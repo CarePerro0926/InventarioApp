@@ -1,0 +1,12 @@
+1,Disco Duro SSD 500GB,48,350000.0
+2,Memoria RAM DDR4 8GB,29,150000.0
+3,Procesador Intel Core i5,20,900000.0
+4,Placa Madre ATX,15,650000.0
+5,Fuente de Poder 650W,25,250000.0
+6,Tarjeta Gráfica GTX 1660,10,1200000.0
+7,Monitor LED 24 pulgadas,20,700000.0
+8,Teclado Mecánico RGB,40,200000.0
+9,Mouse Gamer,35,150000.0
+10,Gabinete de PC con Ventiladores,10,450000.0
+11,Disco Duro Externo 1TB,25,400000.0
+12,Cámara Web Full HD,30,250000.0
