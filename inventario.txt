@@ -1,14 +1,14 @@
-1,Procesador Intel Core i5-13400,Procesadores,20,1100000.0
+1,Procesador Intel Core i5-13400,Procesadores,18,1100000.0
 2,Tarjeta Gráfica RTX 4060,Tarjetas Gráficas,15,1600000.0
-3,Memoria RAM DDR5 16GB (3200MHz),Memorias RAM,20,320000.0
-4,SSD SATA 1TB,Discos Duros,25,280000.0
+3,Memoria RAM DDR5 16GB (3200MHz),Memorias RAM,16,320000.0
+4,SSD SATA 1TB,Discos Duros,19,280000.0
 5,Placa Madre B660 Micro ATX,Boards,10,750000.0
 6,Fuente de Poder 650W 80+ Bronze,Fuentes de Poder,18,250000.0
-7,Gabinete Gamer con Ventiladores,Gabinetes,22,350000.0
+7,Gabinete Gamer con Ventiladores,Gabinetes,19,350000.0
 8,Teclado Mecánico RGB,Periféricos,30,220000.0
 9,Mouse Gaming Óptico,Periféricos,40,120000.0
 10,Audífonos Gaming Inalámbricos,Periféricos,16,380000.0
-11,Monitor LED 24" 144Hz,Monitores,14,850000.0
+11,Monitor LED 24" 144Hz,Monitores,20,850000.0
 12,Cooler Air CPU Dual Tower,Refrigeración,18,180000.0
 13,Router Wi-Fi 6,Redes,18,320000.0
 14,Switch Ethernet 8 Puertos,Redes,12,180000.0

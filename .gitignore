@@ -1,5 +1,15 @@
-out/
-*.class
+# Archivos de Eclipse que NO deben subirse a GitHub
+.metadata/
 .classpath
 .project
 .settings/
+bin/
+out/
+
+# Archivos de compilación Java
+*.class
+*.jar
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
