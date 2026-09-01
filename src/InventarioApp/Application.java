@@ -5,7 +5,10 @@
 
 package InventarioApp;
 
-
-class Application {
+/**
+ * Helper placeholder class renamed to avoid shadowing javafx.application.Application
+ * (keeps old file content but avoids name conflict). You can safely delete this file.
+ */
+class AppTemplate {
 
 }
