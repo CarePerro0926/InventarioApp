@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InventarioApp",
+            "request": "launch",
+            "mainClass": "InventarioApp",
+            "vmArgs": "--module-path \"d:/JAVA FX/openjfx-21.0.2_linux-x64_bin-sdk/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
