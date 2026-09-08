@@ -6,21 +6,8 @@
             "name": "MainApp",
             "request": "launch",
             "mainClass": "InventarioApp.MainApp",
-            "projectName": "InventarioApp"
-        },
-        {
-            "type": "java",
-            "name": "InventarioApp",
-            "request": "launch",
-            "mainClass": "InventarioApp.InventarioApp",
-            "projectName": "InventarioApp"
-        },
-        {
-            "type": "java",
-            "name": "Launch InventarioApp",
-            "request": "launch",
-            "mainClass": "InventarioApp",
-            "vmArgs": "--module-path \"d:/JAVA FX/openjfx-21.0.2_linux-x64_bin-sdk/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+            "projectName": "InventarioApp",
+            "vmArgs": "--module-path \"D:/JAVA FX/openjfx-21.0.5_windows-x64_bin-sdk/javafx-sdk-21.0.5/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
         }
     ]
 }
