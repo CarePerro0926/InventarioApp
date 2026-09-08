@@ -52,7 +52,6 @@ import javafx.scene.text.Text;
 import javafx.scene.text.TextFlow;
 import javafx.stage.Stage;
 
-@SuppressWarnings("unused")
 public class MainApp extends Application {
 
     private Stage loginStage;
