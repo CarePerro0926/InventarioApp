@@ -1,2 +1,6 @@
 admin,admin,admin
 cliente,cliente,cliente
+admin,admin,admin
+cliente,cliente,cliente
+admin@stocksync.com,admin,admin
+cliente@test.com,cliente,cliente
