@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "InventarioApp.MainApp",
+            "projectName": "InventarioApp"
+        },
+        {
+            "type": "java",
             "name": "InventarioApp",
             "request": "launch",
             "mainClass": "InventarioApp.InventarioApp",
