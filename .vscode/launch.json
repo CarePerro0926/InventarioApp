@@ -3,17 +3,21 @@
     "configurations": [
         {
             "type": "java",
-            "name": "InventarioApp",
+            "name": "Ejecutar MainApp (JavaFX)",
             "request": "launch",
-            "mainClass": "InventarioApp.InventarioApp",
-            "projectName": "InventarioApp"
+            "mainClass": "InventarioApp.MainApp",
+            "projectName": "InventarioApp",
+            "cwd": "${workspaceFolder}",
+            "vmArgs": "--module-path \"${workspaceFolder}/../javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.swing"
         },
         {
             "type": "java",
-            "name": "Launch InventarioApp",
+            "name": "Ejecutar InventarioApp (JavaFX)",
             "request": "launch",
-            "mainClass": "InventarioApp",
-            "vmArgs": "--module-path \"d:/JAVA FX/openjfx-21.0.2_linux-x64_bin-sdk/javafx-sdk-21.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+            "mainClass": "InventarioApp.InventarioApp",
+            "projectName": "InventarioApp",
+            "cwd": "${workspaceFolder}",
+            "vmArgs": "--module-path \"${workspaceFolder}/../javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web,javafx.swing"
         }
     ]
 }
